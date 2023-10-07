@@ -7,7 +7,7 @@
 - 🧰 **Technologies:** Selenium, Appium, pgAdmin, Insomnia
 - 📬 **Contact:** [LinkedIn](https://linkedin.com/in/evgenii)
 
-👉 Developing quality software & exploring the world. 
+👉 Diligently working on software development and love discovering new things.
 
 [![Evgenii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EndoTouma&show_icons=true&theme=tokyonight)](https://github.com/EndoTouma)
 
