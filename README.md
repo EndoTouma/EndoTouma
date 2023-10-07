@@ -1,5 +1,13 @@
-# Hello, World!
+# Hi, I'm Evgenii! 👋 
 
-![Developer](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
+![Coding](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
-## 📍 Currently coding from Sliema, Malta
+- 📍 **Location:** Sliema, Malta
+- 👨‍💻 **Languages:** Python, Java
+- 🧰 **Technologies:** Selenium, Appium, pgAdmin, Insomnia
+- 📬 **Contact:** [LinkedIn](https://linkedin.com/in/evgenii)
+
+👉 Developing quality software & exploring the world. 
+
+[![Evgenii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EndoTouma&show_icons=true&theme=tokyonight)](https://github.com/EndoTouma)
+
