@@ -4,7 +4,6 @@
 
 - 📍 **Location:** Sliema, Malta
 - 👨‍💻 **Languages:** Python, Java
-- 🧰 **Technologies:** Selenium, Appium, pgAdmin, Insomnia
 
 👉 Diligently working on software development and love discovering new things.
 
