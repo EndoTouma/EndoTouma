@@ -1,19 +1,16 @@
-  <div align="center">
+<div align="center">
 
-  # `EndoTouma`
+# `EndoTouma`
   
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+things+at+the+intersection+of+code+and+rhythm.;Lead+automation+engineer.;Live+now+%E2%86%92+drumtracker.dev+%7C+drumtracker.ru&font=JetBrains+Mono&center=true&w
-  idth=600&height=45&color=ff3d00&vCenter=true&pause=1500&size=18" alt="typing" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Building+things+at+the+intersection+of+code+and+rhythm.;Lead+automation+engineer.;Live+now+%E2%86%92+drumtracker.dev+%7C+drumtracker.ru&font=JetBrains+Mono&center=true&width=600&height=45&color=ff3d00&vCenter=true&pause=1500&size=18" alt="typing" /></div>
 
-  </div>
+---
 
-  ---
+### 🥁 Now playing
 
-  ### 🥁 Now playing
+> **[DRUM://TRACKER](https://drumtracker.dev)** ([.ru mirror](https://drumtracker.ru)) — MIDI drum practice in your browser
+> *pattern matcher · smart queue · local analytics*
 
-  > **[DRUM://TRACKER](https://drumtracker.dev)** ([.ru mirror](https://drumtracker.ru)) — MIDI drum practice in your browser
-  > *pattern matcher · smart queue · local analytics*
+### 📡 Contact
 
-  ### 📡 Contact
-
-  `tg` [@EndoTouma](https://t.me/EndoTouma)  ·  `mail` delspin1@gmail.com
+`tg` [@EndoTouma](https://t.me/EndoTouma)  ·  `mail` delspin1@gmail.com
